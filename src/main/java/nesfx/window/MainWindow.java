@@ -18,7 +18,7 @@ public class MainWindow extends Application {
 
 	private Nes nes;
 
-	private String romPath = "C:\\Users\\Christian\\Desktop\\ic";
+	private String romPath = "rom/nestest.nes";
 
 	@Override
 	public void start(final Stage primaryStage) {
